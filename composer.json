@@ -1,5 +1,5 @@
 {
-  "name": "mulqizamzam/123bit",
+  "name": "echevarria/bitlyv4php",
   "description": "A simple PHP Library based on Guzzle to generate short links using Bit.ly API V4",
   "type": "library",
   "require": {
@@ -8,16 +8,16 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "mulqizamzam",
-      "email": "mulqizamzam",
-      "homepage": "mulqizamzam"
+      "name": "echevarria",
+      "email": "quinho@gmail.com",
+      "homepage": "https://bemobile.tech"
     }
   ],
   "minimum-stability": "stable",
   "prefer-stable": true,
   "autoload": {
     "psr-4": {
-      "mulqizamzam\\123bit\\": "src/"
+      "Echevarria\\Bitly\\": "src/"
     }
   }
 }
