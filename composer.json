@@ -13,7 +13,7 @@
       "homepage": "https://mulqizamzam.tech"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": false,
   "autoload": {
     "psr-4": {
