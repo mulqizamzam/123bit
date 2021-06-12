@@ -17,7 +17,7 @@
   "prefer-stable": true,
   "autoload": {
     "psr-4": {
-      "Echevarria\\Bitly\\": "src/"
+      "mulqizamzam\\123bit\\": "src/"
     }
   }
 }
